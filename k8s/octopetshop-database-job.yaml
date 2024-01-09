@@ -16,6 +16,6 @@ spec:
               valueFrom:
                 secretKeyRef:
                   name: database-credentials
-                  key: 5goTI180or4oXGpG
+                  key: connectionstring
       restartPolicy: Never
 
